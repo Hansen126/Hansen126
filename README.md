@@ -53,6 +53,7 @@ Built with **React** and **Node.js**, Mindshare allows users to create, share, a
 ### 👹 [The Last One](https://github.com/Hansen126/The-Last-One)
 *A survival typing game where you play as the last demon.*  
 Developed using **Unity** and **C#**, this game combines fast-paced gameplay with typing challenges to test your skills.  
+Finalist of **Indie Game Ignite COMPFEST 16** at **Universitas Indonesia**
 **Features:**
 - **Immersive Gameplay:** Engaging survival mode with dynamic typing mechanics.
 - **Leaderboards:** Track and compare your scores with other players globally.
