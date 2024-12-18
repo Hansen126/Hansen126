@@ -8,28 +8,20 @@ Welcome to my GitHub profile! I'm a developer passionate about crafting innovati
 
 ### **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-
 ### **Web Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-
 ### **Mobile Development**  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
-
 ### **Frameworks**  
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=flat-square&logo=dot-net&logoColor=white)  
-
-### **Databases**  
+### **Databases**     
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
-
 ### **APIs**  
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233367D6.svg?style=flat-square&logo=cloudinary&logoColor=white) ![Midtrans Snap API](https://img.shields.io/badge/Midtrans%20Snap%20API-%230073FF.svg?style=flat-square&logo=midtrans&logoColor=white)
-
 ### **Payment Gateway**  
 ![Midtrans](https://img.shields.io/badge/Midtrans-%230073FF.svg?style=flat-square&logo=midtrans&logoColor=white)
-
-### **Tools**  
+### **Tools**
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-%230a9eff.svg?style=flat-square&logo=krita&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=flat-square&logo=adobe-premiere-pro&logoColor=black)  
-
 ---
 
 ## 🚀 Highlighted Projects
@@ -39,7 +31,7 @@ Welcome to my GitHub profile! I'm a developer passionate about crafting innovati
 Developed using **Android Studio** with **Java**, this app provides a secure and user-friendly platform for gamers to trade equipment.  
 **Features:**
 - **User Registration & Authentication:** Implemented with **Firebase Authentication**.
-- **Product Upload:** Sellers can list items with details and images managed via **Cloudinary API**.
+- **Product Upload:** Sellers can list items with details uploaded to **Firebase Realtime Database** and images managed via **Cloudinary API**.
 - **Secure Payments:** Integrated **Midtrans Payment Gateway (Snap API)** for transactions.
 
 ### 🎭 [PersonaCheck](https://github.com/Hansen126/PersonaCheck)
@@ -79,6 +71,7 @@ Developed using **Unity** and **C#**, this game combines fast-paced gameplay wit
 - **Email:** [Gmail](mailto:hansen126187@gmail.com)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hansen126/)
 - **GitHub:** [Hansen126](https://github.com/Hansen126)
+- **Portfolio:** [Notion](https://plaid-droplet-992.notion.site/Portofolio-10c4fb90e987803bbb35d2a46c40040b)
 
 Feel free to reach out for collaboration, ideas, or just to say hi! 😊
 
