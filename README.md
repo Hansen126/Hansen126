@@ -56,7 +56,7 @@ Developed using **Unity** and **C#**, this game combines fast-paced gameplay wit
 Finalist of **Indie Game Ignite COMPFEST 16** at **Universitas Indonesia**.  
 **Features:**
 - **Immersive Gameplay:** Engaging survival mode with dynamic typing mechanics.
-- **Leaderboards:** Track and compare your scores with other players globally.
+- **Endless Mode:** Complete all of the Chapters to unlock **Endless Mode**.
 
 ---
 
