@@ -24,6 +24,9 @@ Welcome to my GitHub profile! I'm a developer passionate about crafting innovati
 ### **APIs**  
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233367D6.svg?style=flat-square&logo=cloudinary&logoColor=white) ![Midtrans Snap API](https://img.shields.io/badge/Midtrans%20Snap%20API-%230073FF.svg?style=flat-square&logo=midtrans&logoColor=white)
 
+### **Payment Gateway**  
+![Midtrans](https://img.shields.io/badge/Midtrans-%230073FF.svg?style=flat-square&logo=midtrans&logoColor=white)
+
 ### **Tools**  
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-%230a9eff.svg?style=flat-square&logo=krita&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=flat-square&logo=adobe-premiere-pro&logoColor=black)  
 
